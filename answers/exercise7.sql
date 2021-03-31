@@ -1,0 +1,1 @@
+LTER TABLE users drop birthday;
