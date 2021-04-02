@@ -1,1 +1,1 @@
-LTER TABLE users drop birthday;
+ALTER TABLE users drop birthday;
